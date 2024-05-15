@@ -5,10 +5,6 @@
 
 # Hi there, I'm Ifeanyi 👋
 
-<p align="center">
-  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/profile.gif" alt="Profile GIF">
-</p>
-
 I am a passionate data scientist and software developer with a strong background in machine learning, data visualization, and full-stack development. I thrive on turning data into actionable insights and creating software solutions that drive business success.
 
 ## 🛠 Skills
@@ -41,33 +37,25 @@ I am a passionate data scientist and software developer with a strong background
 
 <p align="center">
   <a href="mailto:idiayeifeanyi@yahoo.com"><img src="https://img.shields.io/badge/Email-Your%20Email-red?style=for-the-badge" alt="Email"></a>
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ifeanyi-idiaye-09523abb/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="[https://twitter.com/yourprofile](https://twitter.com/Ifeanyidiaye)"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/ifeanyi-idiaye-09523abb/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://twitter.com/Ifeanyidiaye"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge" alt="Twitter"></a>
 </p>
 
 ## 💼 Projects
 
 ### Project 1: [OpenAlex4Gephi](https://ifeanyi-openalex4gephi.hf.space/)
-<p>
-  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/project1.png" alt="Project 1" width="600">
-</p>
 <b>Description:</b> OpenAlex4Gephi is a web application that interfaces between Open Alex and Gephi.
-<br>
+<br><br>
 <b>Technologies:</b> R, Shiny, Javascript, CSS
 
 ### Project 2: [Prompt Generator](https://ai-prompt-generator.netlify.app/)
-<p>
-  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/project2.gif" alt="Project 2" width="600">
-</p>
-<b>Description:</b> Software for easily generating text-to-image prompts from phrases.<br>
+<b>Description:</b> Software for easily generating text-to-image prompts from phrases.
+<br><br>
 <b>Technologies:</b> Python, Gradio, HTML, CSS, Javascript
 
 ### Project 3: [Image Chat](https://ifeanyi-image-chat.hf.space/)
-<p>
-  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/project3.png" alt="Project 3" width="600">
-</p>
 <b>Description:</b> A Gemini-powered web application for interacting with images and photos
-<br>
+<br><br>
 <b>Technologies:</b> Python, Gradio, Gemini
 
 ## 📝 Blog Posts
