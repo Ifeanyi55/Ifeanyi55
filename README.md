@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ifeanyi 👋
 
-I am a passionate data scientist and software developer with a strong background in machine learning, data visualization, and full-stack development. I thrive on turning data into actionable insights and creating software solutions that drive business success.
+I am a passionate data scientist and software developer with a strong background in machine learning, data visualization, natural language processing, dashboards, and full-stack development. I thrive on turning data into actionable insights and creating software solutions that drive business success.
 
 ## 🛠 Skills
 
