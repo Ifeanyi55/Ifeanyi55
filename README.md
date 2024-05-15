@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/banner.png" alt="Banner">
+  <img src="https://cdn.pixabay.com/photo/2021/05/11/17/21/charts-6246450_1280.png" alt="Banner">
 </p>
 
 # Hi there, I'm Ifeanyi 👋
@@ -13,17 +13,17 @@ I am a passionate data scientist and software developer with a strong background
 
 ## 🛠 Skills
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![R/Shiny](https://img.shields.io/badge/R%2FShiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-3788FF?style=for-the-badge&logo=gradio&logoColor=white)
-![Gephi](https://img.shields.io/badge/Gephi-5C0D11?style=for-the-badge&logo=gephi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![R/Shiny](https://img.shields.io/badge/R%2FShiny-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3788FF.svg?style=for-the-badge&logo=gradio&logoColor=white)
+![Gephi](https://img.shields.io/badge/Gephi-5C0D11.svg?style=for-the-badge&logo=gephi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
 
@@ -85,6 +85,4 @@ I am a passionate data scientist and software developer with a strong background
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/footer.png" alt="Footer">
-</p>
+
