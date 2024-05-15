@@ -1,29 +1,29 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/banner.png" alt="Banner">
+  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/banner.png" alt="Banner">
 </p>
 
-# Hi there, I'm Ifeanyi Idiaye 👋
+# Hi there, I'm Ifeanyi 👋
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/profile.gif" alt="Profile GIF">
+  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/profile.gif" alt="Profile GIF">
 </p>
 
 I am a passionate data scientist and software developer with a strong background in machine learning, data visualization, and full-stack development. I thrive on turning data into actionable insights and creating software solutions that drive business success.
 
 ## 🛠 Skills
 
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
-![R/Shiny](https://img.shields.io/badge/-R/Shiny-276DC3?logo=r&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)
-![Gradio](https://img.shields.io/badge/-Gradio-3788FF?logo=gradio&logoColor=white&style=for-the-badge)
-![Gephi](https://img.shields.io/badge/-Gephi-5C0D11?logo=gephi&logoColor=white&style=for-the-badge)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R/Shiny](https://img.shields.io/badge/R%2FShiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-3788FF?style=for-the-badge&logo=gradio&logoColor=white)
+![Gephi](https://img.shields.io/badge/Gephi-5C0D11?style=for-the-badge&logo=gephi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
 
@@ -34,48 +34,57 @@ I am a passionate data scientist and software developer with a strong background
 ## ⭐ Number of Stars
 
 <p align="center">
-  <img src="https://img.shields.io/badge/stars-5-brightgreen?style=for-the-badge" alt="Number of Stars">
+  <img src="https://img.shields.io/badge/stars-5-brightgreen?style=for-the-badge" alt="Five stars">
 </p>
 
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Your%20Email-red?style=for-the-badge" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge" alt="Twitter"></a>
+  <a href="mailto:idiayeifeanyi@yahoo.com"><img src="https://img.shields.io/badge/Email-Your%20Email-red?style=for-the-badge" alt="Email"></a>
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ifeanyi-idiaye-09523abb/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="[https://twitter.com/yourprofile](https://twitter.com/Ifeanyidiaye)"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge" alt="Twitter"></a>
 </p>
 
 ## 💼 Projects
 
-### Project 1: Data Analysis with R
+### Project 1: [OpenAlex4Gephi](https://ifeanyi-openalex4gephi.hf.space/)
 <p>
-  <img src="https://github.com/yourusername/yourusername/raw/main/project1.png" alt="Project 1" width="600">
+  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/project1.png" alt="Project 1" width="600">
 </p>
-- **Description**: A comprehensive data analysis project using R and Shiny to visualize complex datasets.
-- **Technologies**: R, Shiny, ggplot2
+<b>Description:</b> OpenAlex4Gephi is a web application that interfaces between Open Alex and Gephi.
+<br>
+<b>Technologies:</b> R, Shiny, Javascript, CSS
 
-### Project 2: Machine Learning with Python
+### Project 2: [Prompt Generator](https://ai-prompt-generator.netlify.app/)
 <p>
-  <img src="https://github.com/yourusername/yourusername/raw/main/project2.gif" alt="Project 2" width="600">
+  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/project2.gif" alt="Project 2" width="600">
 </p>
-- **Description**: Implemented various machine learning algorithms to predict housing prices.
-- **Technologies**: Python, scikit-learn, pandas, numpy
+<b>Description:</b> Software for easily generating text-to-image prompts from phrases.<br>
+<b>Technologies:</b> Python, Gradio, HTML, CSS, Javascript
 
-### Project 3: Interactive Dashboard with Neo4j and Gradio
+### Project 3: [Image Chat](https://ifeanyi-image-chat.hf.space/)
 <p>
-  <img src="https://github.com/yourusername/yourusername/raw/main/project3.png" alt="Project 3" width="600">
+  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/project3.png" alt="Project 3" width="600">
 </p>
-- **Description**: Developed an interactive dashboard to visualize social network data using Neo4j and Gradio.
-- **Technologies**: Neo4j, Gradio, Python
+<b>Description:</b> A Gemini-powered web application for interacting with images and photos
+<br>
+<b>Technologies:</b> Python, Gradio, Gemini
 
 ## 📝 Blog Posts
 
-- [Understanding Data Science](https://yourblog.com/understanding-data-science)
-- [Top 10 Python Libraries for Data Science](https://yourblog.com/top-10-python-libraries)
-- [Getting Started with R and Shiny](https://yourblog.com/getting-started-with-r-shiny)
+- [How to Build A Face Analyzer](https://blog.devgenius.io/how-to-build-a-face-analyzer-with-deepface-gradio-5bfc49119ab9)
+- [How to Check Code Runtime](https://blog.devgenius.io/how-to-check-code-runtime-in-r-python-and-javascript-8df22dfe6063)
+- [10 Python Dictionary Methods You Should Know](https://blog.devgenius.io/10-python-dictionary-methods-you-should-know-0b955c8247b3)
+- [Build A Web Article Summarizer in R](https://blog.devgenius.io/build-a-web-article-summarizer-in-r-b63390a806b8)
+- [Plotly Treemap in R](https://statisticsglobe.com/plotly-treemap-r)
+- [Plotly Sunburst Chart in R](https://statisticsglobe.com/plotly-sunburst-chart-r)
+- [Plotly Pareto Chart in R](https://statisticsglobe.com/plotly-pareto-chart-r)
+- [Iterate Through 2D List in Python](https://statisticsglobe.com/iterate-through-2d-list-python)
+- [Convert List of Tuple to List of Lists in Python](https://statisticsglobe.com/convert-list-tuples-list-lists-python)
+- [Convert Lists to Bytes and Vice Versa in Python](https://statisticsglobe.com/convert-list-bytes-vice-versa-python)
 
 ---
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/main/footer.png" alt="Footer">
+  <img src="https://github.com/Ifeanyi55/Ifeanyi55/raw/main/assets/footer.png" alt="Footer">
 </p>
