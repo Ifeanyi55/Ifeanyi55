@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/05/11/17/21/charts-6246450_1280.png" alt="Banner">
-</p>
 
 # Hi there, I'm Ifeanyi 👋
 
@@ -9,39 +6,18 @@ I am a passionate data scientist and software developer with a strong background
 
 ## 🛠 Skills
 
-![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![R/Shiny](https://img.shields.io/badge/R%2FShiny-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-3788FF.svg?style=for-the-badge&logo=gradio&logoColor=white)
-![Gephi](https://img.shields.io/badge/Gephi-5C0D11.svg?style=for-the-badge&logo=gephi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<b>R</b>, <b>R/Shiny</b>, <b>Python</b>, <b>Neo4j</b>, <b>Gradio</b>, <b>Gephi</b>, <b>WordPress</b>, <b>SQL</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ifeanyi55&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-## ⭐ Number of Stars
-
-<p align="center">
-  <img src="https://img.shields.io/badge/stars-5-brightgreen?style=for-the-badge" alt="Five stars">
-</p>
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:idiayeifeanyi@yahoo.com"><img src="https://img.shields.io/badge/Email-Your%20Email-red?style=for-the-badge" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ifeanyi-idiaye-09523abb/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://twitter.com/Ifeanyidiaye"><img src="https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge" alt="Twitter"></a>
-</p>
+idiayeifeanyi@yahoo.com <br>
+[<b>LinkedIn</b>](https://www.linkedin.com/in/ifeanyi-idiaye-09523abb/) <br>
+[<b>Twitter</b>](https://twitter.com/Ifeanyidiaye) <br>
+[<b>Mastodon</b>](https://mastodon.social/@Ifeanyi5)
 
-## 💼 Projects
+  
+## 💼 Some Projects
 
 ### Project 1: [OpenAlex4Gephi](https://ifeanyi-openalex4gephi.hf.space/)
 <b>Description:</b> OpenAlex4Gephi is a web application that interfaces between Open Alex and Gephi.
