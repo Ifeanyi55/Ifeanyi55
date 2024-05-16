@@ -17,7 +17,7 @@ idiayeifeanyi@yahoo.com <br>
 [<b>Mastodon</b>](https://mastodon.social/@Ifeanyi5)
 
   
-## 💼 Some Projects
+## 💼 Some of My Projects
 
 ### Project 1: [OpenAlex4Gephi](https://ifeanyi-openalex4gephi.hf.space/)
 <b>Description:</b> OpenAlex4Gephi is a web application that interfaces between Open Alex and Gephi.
