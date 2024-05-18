@@ -29,8 +29,13 @@ idiayeifeanyi@yahoo.com <br>
 <br><br>
 <b>Technologies:</b> Python, Gradio, HTML, CSS, Javascript
 
-### Project 3: [Image Chat](https://ifeanyi-image-chat.hf.space/)
-<b>Description:</b> A Gemini-powered web application for interacting with images and photos
+### Project 3: [Image To Story](https://ifeanyi-image-to-story.hf.space/)
+<b>Description:</b> An AI-powered software that turns an image into a story
+<br><br>
+<b>Technologies:</b> Python, Gradio, Gemini
+
+### Project 4: [Image Chat](https://ifeanyi-image-chat.hf.space/)
+<b>Description:</b> An AI-powered web application for interacting with images and photos
 <br><br>
 <b>Technologies:</b> Python, Gradio, Gemini
 
