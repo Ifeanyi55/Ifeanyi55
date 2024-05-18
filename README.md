@@ -30,7 +30,7 @@ idiayeifeanyi@yahoo.com <br>
 <b>Technologies:</b> Python, Gradio, HTML, CSS, Javascript
 
 ### Project 3: [Image To Story](https://ifeanyi-image-to-story.hf.space/)
-<b>Description:</b> An AI-powered software that turns an image into a story
+<b>Description:</b> An AI-powered software that generates a story or narrative from an image.
 <br><br>
 <b>Technologies:</b> Python, Gradio, Gemini
 
