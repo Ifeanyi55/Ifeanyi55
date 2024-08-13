@@ -19,7 +19,7 @@ idiayeifeanyi@yahoo.com <br>
   
 ## 💼 Some of My Projects
 
-### Project 1: [OpenAlex4Gephi](https://ifeanyi-openalex4gephi.hf.space/)
+### Project 1: [OpenAlex4Gephi](https://openalex4gephi.netlify.app/)
 <b>Description:</b> OpenAlex4Gephi is a web application that interfaces between Open Alex and Gephi.
 <br><br>
 <b>Technologies:</b> R, Shiny, Javascript, CSS
