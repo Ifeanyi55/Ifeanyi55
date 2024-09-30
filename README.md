@@ -6,7 +6,13 @@ I am a passionate data scientist and software developer with a strong background
 
 ## 🛠 Skills
 
-<b>R</b>, <b>R/Shiny</b>, <b>Python</b>, <b>Neo4j</b>, <b>Gradio</b>, <b>Gephi</b>, <b>WordPress</b>, <b>SQL</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 ## 📫 Contact Me
