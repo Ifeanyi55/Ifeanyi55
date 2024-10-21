@@ -58,6 +58,9 @@ idiayeifeanyi@yahoo.com <br>
 - [Convert List of Tuple to List of Lists in Python](https://statisticsglobe.com/convert-list-tuples-list-lists-python)
 - [Convert Lists to Bytes and Vice Versa in Python](https://statisticsglobe.com/convert-list-bytes-vice-versa-python)
 
+## Open-source Contribution (Hacktoberfest)
+[![An image of @ifeanyi55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ifeanyi55)](https://holopin.io/@ifeanyi55)
+
 ---
 
 
