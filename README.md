@@ -45,7 +45,7 @@ idiayeifeanyi@yahoo.com <br>
 <br><br>
 <b>Technologies:</b> Python, Gradio, Gemini
 
-### Project 5: ![Graphic-Walker-Data-Explorer](https://graphic-walker-data-explorer.netlify.app/)
+### Project 5: [Graphic-Walker-Data-Explorer](https://graphic-walker-data-explorer.netlify.app/)
 <b>Description:</b> A web application, with a tableau-like drag and drop interface, that makes data exploration fast and easy.
 <br><br>
 <b>Technologies:</b> R, Shiny, CSS, Javascript, HTML
