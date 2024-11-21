@@ -28,7 +28,7 @@ idiayeifeanyi@yahoo.com <br>
 ### Project 1: [OpenAlex4Gephi](https://openalex4gephi.netlify.app/)
 <b>Description:</b> OpenAlex4Gephi is a web application that interfaces between Open Alex and Gephi.
 <br><br>
-<b>Technologies:</b> R, Shiny, Javascript, CSS
+<b>Technologies:</b> R, Shiny, Javascript, CSS, HTML
 
 ### Project 2: [Prompt Generator](https://ai-prompt-generator.netlify.app/)
 <b>Description:</b> Software for easily generating text-to-image prompts from phrases.
@@ -41,9 +41,14 @@ idiayeifeanyi@yahoo.com <br>
 <b>Technologies:</b> Python, Gradio, Gemini
 
 ### Project 4: [Image Chat](https://ifeanyi-image-chat.hf.space/)
-<b>Description:</b> An AI-powered web application for interacting with images and photos
+<b>Description:</b> An AI-powered web application for interacting with images and photos.
 <br><br>
 <b>Technologies:</b> Python, Gradio, Gemini
+
+### Project 5: ![Graphic-Walker-Data-Explorer](https://graphic-walker-data-explorer.netlify.app/)
+<b>Description:</b> A web application, with a tableau-like drag and drop interface, that makes data exploration fast and easy.
+<br><br>
+<b>Technologies:</b> R, Shiny, CSS, Javascript, HTML
 
 ## 📝 Blog Posts
 
