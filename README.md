@@ -20,7 +20,7 @@ I am a passionate data scientist and software developer with a strong background
 idiayeifeanyi@yahoo.com <br>
 [<b>LinkedIn</b>](https://www.linkedin.com/in/ifeanyi-idiaye-09523abb/) <br>
 [<b>Twitter</b>](https://twitter.com/Ifeanyidiaye) <br>
-[<b>Mastodon</b>](https://mastodon.social/@Ifeanyi5)
+[<b>Bluesky</b>](https://bsky.app/profile/icode2.bsky.social)
 
   
 ## 💼 Some of My Projects
