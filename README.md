@@ -35,17 +35,22 @@ idiayeifeanyi@yahoo.com <br>
 <br><br>
 <b>Technologies:</b> Python, Gradio, HTML, CSS, Javascript
 
-### Project 3: [Image To Story](https://ifeanyi-image-to-story.hf.space/)
+### Project 3: [SynthScope](https://huggingface.co/spaces/Ifeanyi/SynthScope)
+<b>Description:</b> A multimodal web search tool that returns information as text, image, and translated audio.
+<br><br>
+<b>Technologies:</b> Python, Gradio, Gemini, Hugging Face
+
+### Project 4: [Image To Story](https://ifeanyi-image-to-story.hf.space/)
 <b>Description:</b> An AI-powered software that generates a story or narrative from an image.
 <br><br>
 <b>Technologies:</b> Python, Gradio, Gemini
 
-### Project 4: [Image Chat](https://ifeanyi-image-chat.hf.space/)
+### Project 5: [Image Chat](https://ifeanyi-image-chat.hf.space/)
 <b>Description:</b> An AI-powered web application for interacting with images and photos.
 <br><br>
 <b>Technologies:</b> Python, Gradio, Gemini
 
-### Project 5: [Graphic-Walker-Data-Explorer](https://graphic-walker-data-explorer.netlify.app/)
+### Project 6: [Graphic-Walker-Data-Explorer](https://graphic-walker-data-explorer.netlify.app/)
 <b>Description:</b> A web application, with a tableau-like drag and drop interface, that makes data exploration fast and easy.
 <br><br>
 <b>Technologies:</b> R, Shiny, CSS, Javascript, HTML
