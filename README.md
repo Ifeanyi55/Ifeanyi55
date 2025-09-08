@@ -36,7 +36,7 @@ idiayeifeanyi@yahoo.com <br>
 <b>Technologies:</b> Python, Gradio, HTML, CSS, Javascript
 
 ### Project 3: [SynthScope](https://huggingface.co/spaces/Ifeanyi/SynthScope)
-<b>Description:</b> A multimodal web search tool that returns information as text, image, and translated audio.
+<b>Description:</b> A multimodal Google Search agent that returns information as text, image, and translated audio.
 <br><br>
 <b>Technologies:</b> Python, Gradio, Gemini, Hugging Face
 
